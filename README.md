@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Eliel Alves, and I'm from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Eliel Alves, and I'm  from Brazil.</h2>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/ZDCLEjA7mA266BSggO/giphy.gif"  />
 
 ###
 
@@ -22,12 +26,6 @@
 
 ###
 
-<p align="right">
-  <img height="150" src="https://media3.giphy.com/media/ZDCLEjA7mA266BSggO/giphy.gif" />
-</p>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -38,5 +36,5 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elielalvespinheiro&show_icons=true&theme=radical" alt="Eliel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elielalvespinheiro&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
