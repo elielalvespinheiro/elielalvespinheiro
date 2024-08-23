@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">
+<p align="right">
   <img height="150" src="https://media3.giphy.com/media/ZDCLEjA7mA266BSggO/giphy.gif" />
 </p>
 
